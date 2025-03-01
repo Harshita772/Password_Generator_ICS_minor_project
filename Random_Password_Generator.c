@@ -52,7 +52,6 @@ int strength(char *password, int len){
         {
             type++;
         }
-        
     }
     
     // calculating strength of password
